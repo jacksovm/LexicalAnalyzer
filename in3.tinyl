@@ -1,0 +1,8 @@
+var name;
+
+println("name?");
+name = readStr();
+
+print("Hi\"");
+print(name);
+println("\"");

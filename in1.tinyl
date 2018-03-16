@@ -1,0 +1,5 @@
+var x;
+
+x = readInt();
+
+println( x * 1 );
